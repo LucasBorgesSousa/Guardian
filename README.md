@@ -180,7 +180,7 @@ Antes de executar a aplicação, o banco e as tabelas devem estar disponíveis n
 Clone o repositório:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone <(https://github.com/LucasBorgesSousa/Guardian)>
 ```
 
 Entre no diretório:
